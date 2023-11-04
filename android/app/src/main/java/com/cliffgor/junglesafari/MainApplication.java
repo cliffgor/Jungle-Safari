@@ -1,4 +1,4 @@
-package com.cliffgor;
+package com.cliffgor.junglesafari;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

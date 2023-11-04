@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.cliffgor"
+    namespace "com.cliffgor.junglesafari"
     defaultConfig {
-        applicationId "com.cliffgor"
+        applicationId "com.cliffgor.junglesafari"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 2
